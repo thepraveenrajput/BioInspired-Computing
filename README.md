@@ -101,7 +101,6 @@ Open the notebook using Jupyter Notebook or JupyterLab and execute the cells seq
 BioSched-Smart-Electricity-Load-Scheduling/
 ├── README.md
 ├── BioSched_Human_Readable_Colab.ipynb
-└── BioSched_Presentation_Script.txt
 ```
 
 ## 🏆 Expected Outcomes
@@ -128,13 +127,7 @@ Actual results depend on the tariff data, appliance configurations, constraints,
 - Connect smart meters for real-time monitoring.
 - Improve feasibility guarantees using constraint-aware optimization.
 
-## 👥 Team Members
 
-**Team Size:** 3
-
-- **Member 1:** Problem formulation, cost model, constraints, and Hill Climbing.
-- **Member 2:** Simulated Annealing, Genetic Algorithm, and algorithm comparison.
-- **Member 3:** Machine learning demonstrations, visualizations, documentation, and GitHub integration.
 
 Replace these role descriptions with the actual names and contributions of your team members before submission.
 
